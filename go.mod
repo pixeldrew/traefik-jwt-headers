@@ -1,4 +1,4 @@
-module github.com/PingThingsIO/traefik-jwt-headers
+module github.com/pixeldrew/traefik-jwt-headers
 
 go 1.20
 
